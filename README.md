@@ -53,7 +53,7 @@ And Cleaning That Data To Be Ready For Modelling And Gaining Best Performance Ca
 ##### <font color="45A9A9">- System Libraries : </font>  
   -  ( ***<font color="AB03A9">os</font>***  , ***<font color="AB03A9">io</font>*** ,  ***<font color="AB03A9">base64</font>*** )
 ##### <font color="45A9A9">- EDA Libraries : </font>  
-  - ***<font color="AB03A9">pandas</font>***  , ***<font color="AB03A9">numpy</font>*** ,  ***<font color="AB03A9">matplotlib</font>*** ,  ***<font color="AB03A9">seaborn</font>*** , ***<font color="AB03A9">plotly</font>***
+  - ( ***<font color="AB03A9">pandas</font>***  , ***<font color="AB03A9">numpy</font>*** ,  ***<font color="AB03A9">matplotlib</font>*** ,  ***<font color="AB03A9">seaborn</font>*** , ***<font color="AB03A9">plotly</font>*** )
 ##### <font color="45A9A9">- Deployment Libraries : </font>
-  - ***<font color="AB03A9">Streamlit Framework</font>*** 
+  - ( ***<font color="AB03A9">Streamlit Framework</font>*** )
   
